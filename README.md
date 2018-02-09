@@ -1,6 +1,8 @@
 luala_hash (python) v1.3.1
 ===========================
 
+![Travis build status](https://travis-ci.org/lualacash/luala_hash.svg?branch=master)
+
 Python module for Luala's X11 hashing.
 
 
